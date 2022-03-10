@@ -7,9 +7,10 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>logica</artifactId>
+  <artifactId>integracion</artifactId>
 
-  <name>logica</name>
+  <name>integracion</name>
   <!-- FIXME change it to the project's website -->
   <url>${web}</url>
+  
 </project>
